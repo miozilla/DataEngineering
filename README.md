@@ -20,8 +20,8 @@ DataEngineering
 | - | ![finosql-dynamodb 🧴](https://github.com/miozilla/finosql-dynamodb) | Streaming Entertainment Scalable & Fast Database | DynamoDB, NoSQL |
 | - | ![flightware 🛫](https://github.com/miozilla/flightware) | Aviation / Aerospace | scrapy, mongodb, fastapi |
 | - | ![kafkaz00 🦘🦓](https://github.com/miozilla/kafkaz00) | Apache Kafka | zookeeper, gcp |
-| - | ![medi3ds 🩻](https://github.com/miozilla/medi3ds) | healthcare/medical | matplotlib, numpy, cv2, postgres, grafana |
+| - | ![medi3ds 🩻](https://github.com/miozilla/medi3ds) | Healthcare / Medical | matplotlib, numpy, cv2, postgres, grafana |
 | - | ![miords 🌌](https://github.com/miozilla/miords) | Aurora and RDS | Multi-AZ, Read Replica Database, MariaDB |
-| - | ![snowstock ❄️](https://github.com/miozilla/snowstock) | stockMarket/finance | snowflake, yfinance |
+| - | ![snowstock ❄️](https://github.com/miozilla/snowstock) | Stock Market / Finance | snowflake, yfinance |
 | - | ![synapse :atom:](https://github.com/miozilla/synapse) | Public Transportation | synapse-analytics, power_bi |
 
