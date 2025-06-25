@@ -14,6 +14,7 @@ DataEngineering
 | - | ![cosmosdbcassandra 🪐](https://github.com/miozilla/cosmosdbcassandra) | Automotive | cosmosdb, cassandra, cql |
 | - | ![datafactory 🏭](https://github.com/miozilla/datafactory) | Data Factory | blob, datafactory, bicep |
 | - | ![dataflowbeam 🗼](https://github.com/miozilla/dataflowbeam) | Dataflow & Apache Beam | iam |
+| - | ![dataprochs 🐘🐝](https://github.com/miozilla/dataprochs) | Dataproc Cluster | Apache Hadoop, MapReduce, Spark, YARN, HDFS | 
 | - | ![dbt 🦆](https://github.com/miozilla/dbt)  | Data Build Tool | dbt, duckdb |
 | - | ![deltalakes2 🤽‍♀️](https://github.com/miozilla/deltalakes2) | Deltalake | spark # synapse |
 | - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | microsoft_fabric |
