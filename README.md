@@ -19,6 +19,7 @@ DataEngineering
 | - | ![deltalakes2 🤽‍♀️](https://github.com/miozilla/deltalakes2) | Deltalake | spark # synapse |
 | - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | microsoft_fabric |
 | - | ![finosql-dynamodb 🧴](https://github.com/miozilla/finosql-dynamodb) | Streaming Entertainment Scalable & Fast Database | DynamoDB, NoSQL |
+| - | ![fleetm365 🛳️🏦](https://github.com/miozilla/fleetm365) | Finance & Operations (Fleet Management) | Dynamic 365, Office Integration, Functional Consultant | 
 | - | ![flightware 🛫](https://github.com/miozilla/flightware) | Aviation / Aerospace | scrapy, mongodb, fastapi |
 | - | ![kafkaz00 🦘🦓](https://github.com/miozilla/kafkaz00) | Apache Kafka | zookeeper, gcp |
 | - | ![medi3ds 🩻](https://github.com/miozilla/medi3ds) | Healthcare / Medical | matplotlib, numpy, cv2, postgres, grafana |
