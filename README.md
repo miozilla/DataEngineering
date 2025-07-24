@@ -21,6 +21,7 @@ DataEngineering
 | - | ![finosql-dynamodb 🧴](https://github.com/miozilla/finosql-dynamodb) | Streaming Entertainment Scalable & Fast Database | DynamoDB, NoSQL |
 | - | ![fleetm365 🛳️🏦](https://github.com/miozilla/fleetm365) | Finance & Operations (Fleet Management) | Dynamic 365, Office Integration, Functional Consultant | 
 | - | ![flightware 🛫](https://github.com/miozilla/flightware) | Aviation / Aerospace | Scrapy, mongodb, fastapi |
+| - | ![hl7fhir 🩺🧑‍⚕️](https://github.com/miozilla/hl7fhir) | Cloud Healthcare API | Streaming HL7 to FHIR Data, Dataflow, Datasets, Stores, DICOM |
 | - | ![kafkaz00 🦘🦓](https://github.com/miozilla/kafkaz00) | Apache Kafka | Zookeeper, gcp |
 | - | ![medi3ds 🩻](https://github.com/miozilla/medi3ds) | Healthcare / Medical | Matplotlib, numpy, cv2, postgres, grafana |
 | - | ![miords 🌌](https://github.com/miozilla/miords) | Aurora and RDS | Multi-AZ, Read Replica Database, MariaDB |
@@ -29,3 +30,5 @@ DataEngineering
 | - | ![snowden ⛄🎮](https://github.com/miozilla/snowden) |  VR Game | Snowflake, Data Engineering, ELT | 
 | - | ![snowstock ❄️](https://github.com/miozilla/snowstock) | Stock Market / Finance | Snowflake, yfinance |
 | - | ![synapse :atom:](https://github.com/miozilla/synapse) | Public Transportation | Synapse-analytics, power_bi |
+
+
