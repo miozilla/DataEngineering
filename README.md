@@ -30,5 +30,5 @@ DataEngineering
 | - | ![snowden ⛄🎮](https://github.com/miozilla/snowden) |  VR Game | Snowflake, Data Engineering, ELT | 
 | - | ![snowstock ❄️](https://github.com/miozilla/snowstock) | Stock Market / Finance | Snowflake, yfinance |
 | - | ![synapse :atom:](https://github.com/miozilla/synapse) | Public Transportation | Synapse-analytics, power_bi |
-
+| - | ![weatherny 🌦️📈](https://github.com/miozilla/weatherny) | Weather Data | BigQuery, Correlation |
 
