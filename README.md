@@ -24,6 +24,7 @@ DataEngineering
 | - | ![hl7fhir 🩺🧑‍⚕️](https://github.com/miozilla/hl7fhir) | Cloud Healthcare API | Streaming HL7 to FHIR Data, Dataflow, Datasets, Stores, DICOM |
 | - | ![kafkaz00 🦘🦓](https://github.com/miozilla/kafkaz00) | Apache Kafka | Zookeeper, gcp |
 | - | ![medi3ds 🩻](https://github.com/miozilla/medi3ds) | Healthcare / Medical | Matplotlib, numpy, cv2, postgres, grafana |
+| - | ![miomnibqaws 🔎😶‍🌫️🪣](https://github.com/miozilla/miomnibqaws) | Google Cloud & AWS Integration | BigQuery Omni, S3, External Table |
 | - | ![miords 🌌](https://github.com/miozilla/miords) | Aurora and RDS | Multi-AZ, Read Replica Database, MariaDB |
 | - | ![pandas 🐼🐼](https://github.com/miozilla/pandas) | Python Library | Data Analysis, Dataframe, pandas, sqlite3 |
 | - | ![rdscloudsql 🚚🚛](https://github.com/miozilla/rdscloudsql) | Amazon RDS to Google Cloud SQL Database Migration | MySQL |
@@ -31,4 +32,3 @@ DataEngineering
 | - | ![snowstock ❄️](https://github.com/miozilla/snowstock) | Stock Market / Finance | Snowflake, yfinance |
 | - | ![synapse :atom:](https://github.com/miozilla/synapse) | Public Transportation | Synapse-analytics, power_bi |
 | - | ![weatherny 🌦️📈](https://github.com/miozilla/weatherny) | Weather Data | BigQuery, Correlation |
-
