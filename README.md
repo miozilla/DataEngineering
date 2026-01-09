@@ -8,16 +8,16 @@ DataEngineering
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
 | - | ![airflowazapp ♻️](https://github.com/miozilla/airflowazapp) | Airflow | Azure Web App, DAG |
-| - | ![azsqldb 🏢](https://github.com/miozilla/azsqldb) | Azure SQL Database | Azure_sql_db |
+| - | ![azsqldb 🏢](https://github.com/miozilla/azsqldb) | Azure SQL Database | Azure SQL DB |
 | - | ![bigquery 🔎](https://github.com/miozilla/bigquery) | BigQuery | GCP |
-| - | ![bigtable 🌀](https://github.com/miozilla/bigtable) | Bigtable Database | GCP, nosql, backup, cbt |
-| - | ![cosmosdbcassandra 🪐](https://github.com/miozilla/cosmosdbcassandra) | Automotive | Cosmosdb, cassandra, cql |
+| - | ![bigtable 🌀](https://github.com/miozilla/bigtable) | Bigtable Database | GCP, NOSQL, Backup, cbt CLI |
+| - | ![cosmosdbcassandra 🪐](https://github.com/miozilla/cosmosdbcassandra) | Automotive | Cosmosdb, Cassandra, cql |
 | - | ![datafactory 🏭](https://github.com/miozilla/datafactory) | Data Factory | Blob, datafactory, bicep |
 | - | ![dataflowbeam 🗼](https://github.com/miozilla/dataflowbeam) | Dataflow & Apache Beam | IAM |
 | - | ![dataprochs 🐘🐝](https://github.com/miozilla/dataprochs) | Dataproc Cluster | Apache Hadoop, MapReduce, Spark, YARN, HDFS | 
 | - | ![dbt 🦆](https://github.com/miozilla/dbt)  | Data Build Tool | DBT, duckdb |
 | - | ![deltalakes2 🤽‍♀️](https://github.com/miozilla/deltalakes2) | Deltalake | Spark, Synapse |
-| - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | Microsoft_fabric |
+| - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | Microsoft Fabric |
 | - | ![finosql-dynamodb 🧴](https://github.com/miozilla/finosql-dynamodb) | Streaming Entertainment Scalable & Fast Database | DynamoDB, NoSQL |
 | - | ![fleetm365 🛳️🏦](https://github.com/miozilla/fleetm365) | Finance & Operations (Fleet Management) | Dynamic 365, Office Integration, Functional Consultant | 
 | - | ![flightware 🛫](https://github.com/miozilla/flightware) | Aviation / Aerospace | Scrapy, mongodb, fastapi |
