@@ -7,7 +7,7 @@ DataEngineering
 
 | | Projects | Descriptions | Topics | 
 | - | :-: | :-: | :-: |
-| - | ![airflowazapp ♻️](https://github.com/miozilla/airflowazapp) | Airflow | Azure_web_app #dag |
+| - | ![airflowazapp ♻️](https://github.com/miozilla/airflowazapp) | Airflow | Azure Web App, DAG |
 | - | ![azsqldb 🏢](https://github.com/miozilla/azsqldb) | Azure SQL Database | Azure_sql_db |
 | - | ![bigquery 🔎](https://github.com/miozilla/bigquery) | BigQuery | GCP |
 | - | ![bigtable 🌀](https://github.com/miozilla/bigtable) | Bigtable Database | GCP, nosql, backup, cbt |
