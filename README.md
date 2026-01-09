@@ -29,6 +29,7 @@ DataEngineering
 | - | ![miomnibqaws 🔎😶‍🌫️🪣](https://github.com/miozilla/miomnibqaws) | Google Cloud & AWS Integration | BigQuery Omni, S3, External Table |
 | - | ![miords 🌌](https://github.com/miozilla/miords) | Aurora and RDS | Multi-AZ, Read Replica Database, MariaDB |
 | - | ![pandas 🐼🐼](https://github.com/miozilla/pandas) | Python Library | Data Analysis, Dataframe, pandas, sqlite3 |
+| - | ![rcode 🐧®️📊](https://github.com/miozilla/rcode) | Analysis Using R | R Programming Language, Dplyr, Palmerpenguins, Data Cleaning | 
 | - | ![rdscloudsql 🚚🚛](https://github.com/miozilla/rdscloudsql) | Amazon RDS to Google Cloud SQL Database Migration | MySQL |
 | - | ![snowden ⛄🎮](https://github.com/miozilla/snowden) |  VR Game | Snowflake, Data Engineering, ELT | 
 | - | ![snowstock ❄️](https://github.com/miozilla/snowstock) | Stock Market / Finance | Snowflake, yfinance |
