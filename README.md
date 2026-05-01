@@ -17,7 +17,7 @@ DataEngineering
 | - | ![dataprochs 🐘🐝](https://github.com/miozilla/dataprochs) | Dataproc Cluster | Apache Hadoop, MapReduce, Spark, YARN, HDFS | 
 | - | ![dbt 🦆](https://github.com/miozilla/dbt)  | Data Build Tool | DBT, duckdb |
 | - | ![deltalakes2 🤽‍♀️](https://github.com/miozilla/deltalakes2) | Deltalake | Spark, Synapse |
-| - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | Microsoft Fabric |
+| - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | Microsoft Fabric, Data Science, sklearn, mlflow |
 | - | ![finosql-dynamodb 🧴](https://github.com/miozilla/finosql-dynamodb) | Streaming Entertainment Scalable & Fast Database | DynamoDB, NoSQL |
 | - | ![fleetm365 🛳️🏦](https://github.com/miozilla/fleetm365) | Finance & Operations (Fleet Management) | Dynamic 365, Office Integration, Functional Consultant | 
 | - | ![flightware 🛫](https://github.com/miozilla/flightware) | Aviation / Aerospace | Scrapy, mongodb, fastapi |
