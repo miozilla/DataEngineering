@@ -25,6 +25,7 @@ DataEngineering
 | - | ![gcdatacatalog 🚕📱](https://github.com/miozilla/gcdatacatalog) | Google Cloud Data Catalog | Metadata Management, Tag |
 | - | ![hl7fhir 🩺🧑‍⚕️](https://github.com/miozilla/hl7fhir) | Cloud Healthcare API | Streaming HL7 to FHIR Data, Dataflow, Datasets, Stores, DICOM |
 | - | ![kafkaz00 🦘🦓](https://github.com/miozilla/kafkaz00) | Apache Kafka | Zookeeper, gcp |
+| - | ![loadbqddl 🐸🚖](https://github.com/miozilla/loadbqddl) | Data Loading | BigQuery, DDL, NoOps, SQL |
 | - | ![mariadbanalyst 👩‍🔧🦭🛢️](https://github.com/miozilla/mariadbanalyst) | MariaDB | SQL, JOIN, Relational Database | 
 | - | ![medi3ds 🩻](https://github.com/miozilla/medi3ds) | Healthcare / Medical | Matplotlib, numpy, cv2, postgres, grafana |
 | - | ![miomnibqaws 🔎😶‍🌫️🪣](https://github.com/miozilla/miomnibqaws) | Google Cloud & AWS Integration | BigQuery Omni, S3, External Table |
@@ -37,5 +38,4 @@ DataEngineering
 | - | ![synapse :atom:](https://github.com/miozilla/synapse) | Public Transportation | Synapse-analytics, power_bi |
 | - | ![weatherny 🌦️📈](https://github.com/miozilla/weatherny) | Weather Data | BigQuery, Correlation |
 | - | :-: | :-: | :-: |
-
 
