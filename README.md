@@ -12,6 +12,7 @@ DataEngineering
 | - | ![azsqldb 🏢](https://github.com/miozilla/azsqldb) | Azure SQL Database | Azure SQL DB |
 | - | ![bigquery 🔎](https://github.com/miozilla/bigquery) | BigQuery | GCP |
 | - | ![bigtable 🌀](https://github.com/miozilla/bigtable) | Bigtable Database | GCP, NOSQL, Backup, cbt CLI |
+| - | ![cdfgs 📚🐸💥](https://github.com/miozilla/cdfgs) | NYT Best Sellers | Cloud Data Fusion, Pipeline Studio, Managed Service for Apache Spark, Dataproc, Transformations, BigQuery |
 | - | ![cosmosdbcassandra 🪐](https://github.com/miozilla/cosmosdbcassandra) | Automotive | Cosmosdb, Cassandra, cql |
 | - | ![datafactory 🏭](https://github.com/miozilla/datafactory) | Data Factory | Blob, datafactory, bicep |
 | - | ![dataflowbeam 🗼](https://github.com/miozilla/dataflowbeam) | Dataflow & Apache Beam | IAM |
