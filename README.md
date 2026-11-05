@@ -23,6 +23,7 @@ DataEngineering
 | - | ![finosql-dynamodb 🧴](https://github.com/miozilla/finosql-dynamodb) | Streaming Entertainment Scalable & Fast Database | DynamoDB, NoSQL |
 | - | ![fleetm365 🛳️🏦](https://github.com/miozilla/fleetm365) | Finance & Operations (Fleet Management) | Dynamic 365, Office Integration, Functional Consultant | 
 | - | ![flightware 🛫](https://github.com/miozilla/flightware) | Aviation / Aerospace | Scrapy, mongodb, fastapi |
+| - | ![fusionredact 🚰🔣](https://github.com/miozilla/fusionredact) | Data Security - Sensitive Data Protection | Data Fusion Pipeline, Redaction, Data Masking, PII Protection, Cloud DLP, Dataproc, Spark |
 | - | ![gcdatacatalog 🚕📱](https://github.com/miozilla/gcdatacatalog) | Google Cloud Data Catalog | Metadata Management, Tag |
 | - | ![hl7fhir 🩺🧑‍⚕️](https://github.com/miozilla/hl7fhir) | Cloud Healthcare API | Streaming HL7 to FHIR Data, Dataflow, Datasets, Stores, DICOM |
 | - | ![kafkaz00 🦘🦓](https://github.com/miozilla/kafkaz00) | Apache Kafka | Zookeeper, gcp |
