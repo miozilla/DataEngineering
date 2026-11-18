@@ -17,6 +17,7 @@ DataEngineering
 | - | ![datafactory 🏭](https://github.com/miozilla/datafactory) | Data Factory | Blob, datafactory, bicep |
 | - | ![dataflowbeam 🗼](https://github.com/miozilla/dataflowbeam) | Dataflow & Apache Beam | IAM |
 | - | ![dataprochs 🐘🐝](https://github.com/miozilla/dataprochs) | Dataproc Cluster | Apache Hadoop, MapReduce, Spark, YARN, HDFS | 
+| - | ![datastudio 🌲🎋🌴](https://github.com/miozilla/datastudio)| San Francisco Street Tree BI Dashboard | Data Studio (Looker), BigQuery, Dataset, Business Intelligence, Analytics, Data Analyst |
 | - | ![dbt 🦆](https://github.com/miozilla/dbt)  | Data Build Tool | DBT, duckdb |
 | - | ![deltalakes2 🤽‍♀️](https://github.com/miozilla/deltalakes2) | Deltalake | Spark, Synapse |
 | - | ![fabric_ds 👚](https://github.com/miozilla/fabric_ds) | Fabric | Microsoft Fabric, Data Science, sklearn, MLFlow, Apache Spark|
